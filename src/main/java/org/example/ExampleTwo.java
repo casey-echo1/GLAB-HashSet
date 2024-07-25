@@ -11,6 +11,8 @@ public class ExampleTwo {
 		HashSet<Integer> numbers = new HashSet<>();
 		numbers.add(1);
 		numbers.add(3);
+		numbers.add(99);
+		numbers.add(51);
 		System.out.println("HashSet2: " + numbers);
 
 		numbers.addAll(evenNumbers);
