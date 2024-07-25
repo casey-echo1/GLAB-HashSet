@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086154b1-b030-4da5-bf6f-b75fda52645a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExampleCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cities_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jiouCFyNQXN18IPD1Mzgr8CvNA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,9 +39,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExampleFour.executor": "Run",
     "Application.ExampleOne.executor": "Run",
     "Application.ExampleThree.executor": "Run",
     "Application.ExampleTwo.executor": "Run",
+    "Application.TreeSetExampleCom.executor": "Run",
+    "Application.TreeSetExampleOne.executor": "Run",
+    "Application.TreeSetExampleTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -66,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721879478856</updated>
-      <workItem from="1721879479891" duration="1196000" />
+      <workItem from="1721879479891" duration="2020000" />
+      <workItem from="1721912159376" duration="1123000" />
     </task>
     <servers />
   </component>
